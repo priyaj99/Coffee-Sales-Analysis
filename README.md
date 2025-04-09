@@ -1,7 +1,9 @@
-**Coffee Sales Dashboard (MS-Excel Project)**
+**Coffee Sales Dashboard (MS-Excel Project)**  
+
 This project focuses on building an interactive Coffee Sales Dashboard using Microsoft Excel to analyze and visualize sales data for a coffee company.
 
-**Project Overview**
+**Project Overview**  
+
 The dashboard provides dynamic insights into:
 * Sales trends over time
 * Top-performing countries
@@ -25,7 +27,8 @@ The dashboard provides dynamic insights into:
 * Sales trends showed seasonality patterns across months.
 * Loyal customers contributed significantly to revenue.
 
-**Purpose of the Project**
+**Purpose of the Project**  
+
 This project helped me practice:
 * Data cleaning & transformation
 * Visual storytelling with Excel
@@ -33,8 +36,10 @@ This project helped me practice:
 * Enhancing Excel visualization skills
 
 **Project Preview**
+## Dashboard Preview
 
+![Coffee Sales Dashboard](dashboard-screenshot.png)
 
+## Contact
 
-
-Feel free to connect with me on LinkedIn for feedback, collaboration, or discussion!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/priyaagarwal15/) for feedback, collaboration, or discussion!
