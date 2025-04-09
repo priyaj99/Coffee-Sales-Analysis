@@ -35,10 +35,9 @@ This project helped me practice:
 * Creating dashboards for business insights
 * Enhancing Excel visualization skills
 
-**Project Preview**
 ## Dashboard Preview
 
-![Coffee Sales Dashboard](dashboard-screenshot.png)
+![Coffee Sales Dashboard](Dashboard-screenshot.png)
 
 ## Contact
 
