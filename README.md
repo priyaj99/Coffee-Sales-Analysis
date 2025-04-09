@@ -37,7 +37,7 @@ This project helped me practice:
 
 ## Dashboard Preview
 
-![Coffee Sales Dashboard](Dashboard-screenshot.png)
+![Dashboard](Dashboard-screenshot.png)
 
 ## Contact
 
