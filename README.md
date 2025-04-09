@@ -35,10 +35,6 @@ This project helped me practice:
 * Creating dashboards for business insights
 * Enhancing Excel visualization skills
 
-## Dashboard Preview
-
-![Dashboard](Dashboard-screenshot.png)
-
 ## Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/priyaagarwal15/) for feedback, collaboration, or discussion!
